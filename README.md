@@ -2,7 +2,15 @@
 ## Project Overview
 Interactive Power BI dashboard developed to analyse patient readmission patterns using healthcare data. Includes KPIs, DAX measures, interactive slicers, and data visualizations to compare readmission patterns across different patient and clinical groups.
 
-## Dataset used
+## Dataset 
+The dataset used for this project is:
+
+Healthcare_Patient_Readmission_250k
+
+- 250,000 patient records
+- 47 fields
+- Time period: 2023–2025
+- Main outcome analysed: `Readmission_Flag`
 - <a href="https://github.com/Varsha-Kookkal/Healthcare-Readmission-Analysis-PowerBI/blob/main/hospital_bed_occupancy_dataset.xlsx">Dataset</a>
 ## Questions (KPIs)
 - What is the total number of patients?
@@ -17,4 +25,6 @@ Interactive Power BI dashboard developed to analyse patient readmission patterns
 - How does readmission rate compare between ICU and Non-ICU patients?
 - How are readmissions distributed across severity levels?
 - Dashboard Interaction <a href="https://github.com/Varsha-Kookkal/Healthcare-Readmission-Analysis-PowerBI/blob/main/Screenshot%202026-09-06%20080140.png">View Dashboard</a>
+
+## Process
 

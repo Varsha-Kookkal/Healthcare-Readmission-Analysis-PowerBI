@@ -91,9 +91,6 @@ Created DAX measures for the main dashboard KPIs:
 
 ## Conclusion
 
-This project helped me analyse patient readmission patterns using Power BI and DAX. The interactive dashboard provides a simple way to explore key patient and readmission metrics and compare patterns across different groups.
-
-The insights can help healthcare teams monitor readmission patterns, identify areas that may need closer attention, and support hospital planning and data-driven decision-making.
-
+This project helped me analyse patient readmission patterns using Power BI and DAX. The interactive dashboard provides a simple way to explore key patient and readmission metrics and compare patterns across different groups.The insights can help healthcare teams monitor readmission patterns, identify areas that may need closer attention, and support hospital planning and data-driven decision-making.
 Overall, this project improved my understanding of data cleaning, DAX, data modelling, data visualization, and interactive dashboard development.
 

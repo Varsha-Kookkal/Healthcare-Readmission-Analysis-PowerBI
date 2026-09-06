@@ -82,7 +82,7 @@ Created DAX measures for the main dashboard KPIs:
 - The project does not predict whether an individual patient will be readmitted.
 - The quality of the analysis depends on the quality and completeness of the dataset.
 
-- ## Future Scope
+ ## Future Scope
 
 - Develop a machine learning model to predict patient readmission risk.
 - Include additional patient and hospital-related data for deeper analysis.

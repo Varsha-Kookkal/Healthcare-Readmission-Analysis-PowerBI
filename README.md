@@ -16,5 +16,6 @@ Interactive Power BI dashboard developed to analyse patient readmission patterns
 - Which age group has the highest readmission rate?
 - How does readmission rate compare between ICU and Non-ICU patients?
 - How are readmissions distributed across severity levels?
--Dashboard Interaction <a href= " https://github.com/Varsha-Kookkal/Healthcare-Readmission-Analysis-PowerBI/blob/main/Screenshot%202026-09-06%20080140.png"> View Dashboard</a>
+  
+- Dashboard Interaction <a href= " https://github.com/Varsha-Kookkal/Healthcare-Readmission-Analysis-PowerBI/blob/main/Screenshot%202026-09-06%20080140.png"> View Dashboard</a>
 
